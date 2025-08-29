@@ -50,10 +50,6 @@ document.getElementById('railway-heart').addEventListener('click', function () {
         document.getElementById('heart-count').innerText = heartCount;
 })
 // Call Button Functionality
-//coin-balance
-//btn-emergency-call
-//emergency-number
-//emergency-service-name
 
 /////////////////////////////////////////
 // Function Defination START

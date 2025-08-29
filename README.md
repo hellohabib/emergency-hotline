@@ -30,3 +30,7 @@ appendChild() ফাংশন দিয়ে নতুন ইলিমেন্ট
 (3) What is Event Bubbling and how does it work?
 child element থেকে তার parent element, এর পর তার parent element, এর পর তার parent element এভাবে যেতে যেতে একদম HTML body tag পর্যন্ত যাওয়া কে event bubbling বলে।
 
+(5) What is the difference between preventDefault() and stopPropagation() methods?
+form tag এর default বিহেবিয়র কে থামানোর জন্য preventDefault() ব্যবহার করা হয়।
+event bubble বন্ধ করার জন্য stopPropagation() ব্যবহার করা হয়।
+

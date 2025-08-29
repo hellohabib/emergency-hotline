@@ -19,21 +19,15 @@ background: linear-gradient(90.00deg, rgba(1.251827359199524, 49.64006805419922,
 -- main section background
 background: rgba(245, 255, 246, 1);	#f5fff6
 
+-- card sarbojonin
+border-radius: 9999px;
+background: var(--Gray-Light, rgba(242, 242, 242, 1));	#f2f2f2
 
+-- Card English Text, Bangla Text
+92, 92, 92, 1		#5c5c5c
 
-<div>
-                        <img src="./assets/emergency.png" alt="">
-                        <i class="fa-regular fa-heart"></i>
-                    </div>
-                    <h2>জাতীয় জরুরি সেবা</h2>
-                    <h4>National Emergency</h4>
-                    <h1>999</h1>
-                    <p>সার্বজনীন</p>
-                    <div>
-                        <button class="btn">Copy</button>
-                        <button class="btn">Call </button>
-                    </div>
-
+-- Card Call button color
+0, 166, 62, 1		#00a63e
 
 ---GitHub
 
@@ -49,3 +43,27 @@ git push -u origin main
 git remote add origin https://github.com/hellohabib/emergency-hotline.git
 git branch -M main
 git push -u origin main
+
+
+
+police-name
+police-number
+police-call
+fire-name
+fire-number
+fire-call
+ambulance-service-name
+ambulance-number
+woman-service-name
+woman-number
+dudok-service-name
+dudok-number
+dudok-call
+biddut-name
+biddut-number
+biddut-call
+ngo-name
+ngo-call
+railway-name
+railway-number
+railway-call
